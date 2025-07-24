@@ -2,7 +2,7 @@
 
 🎯 **Frontend Developer** | React · TypeScript · UI/UX · Tailwind  
 📍 Bengaluru, India  
-📬 [Email Me](mailto:nehabvp28@gmail.com)
+📬 [Email Me](mailto:nehabvp28@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/neha-joshi-722b29257/) | 🌐 [Portfolio (Coming Soon)]()
 
 ---
@@ -27,7 +27,8 @@ A modern ChatGPT-style web app powered by OpenAI and built with performance-firs
 - 🔁 Smart error handling & retry logic  
 - 📱 Fully responsive design  
 
-🔗 [View Code](https://github.com/nehabvp288/ai-chat-app) &nbsp;&nbsp;|&nbsp;&nbsp;🚀 [Live Demo](#coming-soon)
+🔗 [View Code](https://github.com/nehabvp288/ai-chat-app)  
+🚀 Live Demo: _Coming Soon_
 
 ---
 
