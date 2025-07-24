@@ -2,7 +2,7 @@
 
 🎯 **Frontend Developer** | React · TypeScript · UI/UX · Tailwind  
 📍 Bengaluru, India  
-📬 [Email Me](mailto:nehabvp28@gmail.com)  
+📬 [Email Me](mailto:nehabvp28@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/neha-joshi-722b29257/) | 🌐 [Portfolio (Coming Soon)]()
 
 ---
