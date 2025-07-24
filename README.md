@@ -27,7 +27,7 @@ A modern ChatGPT-style web app powered by OpenAI and built with performance-firs
 - 🔁 Smart error handling & retry logic  
 - 📱 Fully responsive design  
 
-🔗 [View Code](https://github.com/nehabvp288/ai-chat-interface) &nbsp;&nbsp;|&nbsp;&nbsp;🚀 [Live Demo (Coming Soon)]()
+🔗 [View Code](https://github.com/nehabvp288/ai-chat-app) &nbsp;&nbsp;|&nbsp;&nbsp;🚀 [Live Demo](#coming-soon)
 
 ---
 
