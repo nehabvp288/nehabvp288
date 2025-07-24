@@ -1,14 +1,17 @@
 # 👋 Hey there, I'm Neha Joshi
 
 🎯 **Frontend Developer** | React · TypeScript · UI/UX · Tailwind  
-📍 Bengaluru, India &nbsp;&nbsp;📬 [Email Me](mailto:nehabvp28@gmail.com)  
+📍 Bengaluru, India  
+📬 [Email Me](mailto:nehabvp28@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/neha-joshi-722b29257/) | [Portfolio (Coming Soon)]()  
 
 ---
 
+## 💡 About Me
+
 I'm a frontend engineer with 3+ years of experience building fast, accessible, and elegant user interfaces. Whether it’s real-time chat apps, interactive dashboards, or sleek landing pages — I love crafting meaningful digital experiences that just *feel right*.  
 
-💡 I enjoy solving UI problems, improving performance, and working with modern tools like React, Redux Toolkit, and Tailwind CSS.
+💡 I enjoy solving UI problems, improving performance, and working with modern tools like React, Redux Toolkit, and Tailwind CSS. I value clean code, accessibility, responsive design, and smooth user experiences across devices.
 
 ---
 
@@ -49,11 +52,38 @@ Jest, Postman, DevTools, ESLint, Prettier
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Currently Working On
 
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehabvp288&show_icons=true&theme=radical)
+- 🚀 Building my personal portfolio using React, Tailwind, and Framer Motion  
+- 💬 Improving my AI Chat App with UI enhancements and error boundaries  
+- 🛠️ Exploring open-source contributions and design system components  
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nehabvp288&show_icons=true&theme=tokyonight&hide=stars&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehabvp288&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nehabvp288&theme=gruvbox&margin-w=10" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+I'm always happy to connect or collaborate!  
+- 📧 [nehabvp28@gmail.com](mailto:nehabvp28@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/neha-joshi-722b29257/)  
+- 🌐 Portfolio: (coming soon)
+
+---
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
